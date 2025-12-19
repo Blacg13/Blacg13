@@ -6,7 +6,8 @@
 💡 My focus is on building well-organized, scalable, and visually impactful applications that truly make a difference.<br>
 ⚙️ I enjoy understanding and experimenting with ideas to achieve my goals.
 
-🌐 **Check out my [![portfolio](https://www.benedictelagasse.vercel.app)]**
+🌐 **Check out my ![portfolio](https://www.benedictelagasse.vercel.app)**
+
 🌐 **You can also check my**  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bénédicte-lagasse)
 
 ## 💻 Tech Stack:
